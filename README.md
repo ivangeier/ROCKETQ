@@ -20,8 +20,10 @@ This application is not polished yet - need to improved responsivity
 
 After clone the project start Node Server and Start Database in your terminal:
 
+```
 npm start
 npm run init-db
+```
 
 Open your broser and go to http://localhost:3000/
 
