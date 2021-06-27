@@ -27,7 +27,7 @@ npm start
 npm run init-db
 ```
 
-Open your broser and go to http://localhost:3000/
+Open your browser and go to http://localhost:3000/
 
 ## LICENSE
 
