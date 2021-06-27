@@ -4,7 +4,7 @@ My very first application with back-end, developed with @rocketseat during the N
 
 This application helps you to hanlde questions from your clientes, guest,... You can create a room for a specificy event and all guest can send questions anonimously. You can also manage question masking as read or delete them.
 
-## TECNOLOGIES
+## TECHNOLOGIES
 
 - HTML
 - CSS
