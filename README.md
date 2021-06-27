@@ -16,7 +16,7 @@ This application helps you to hanlde questions from your clientes, guest,... You
 
 This application is not polished yet - need to improved responsivity
 
-## How to use/ Run the code
+## HOW TO USE THE CODE
 
 After clone the project start Node Server and Start Database in your terminal:
 
@@ -33,7 +33,7 @@ Open your browser and go to http://localhost:3000/
 
 This application is under MIT License.
 
-## Author
+## AUTHOR
 
 Ivan Geier
 
