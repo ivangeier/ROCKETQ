@@ -22,6 +22,8 @@ After clone the project start Node Server and Start Database in your terminal:
 
 ```
 npm start
+```
+```
 npm run init-db
 ```
 
